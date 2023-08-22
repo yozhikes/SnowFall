@@ -20,3 +20,14 @@ C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\SnowFa
 C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\SnowFallMidili\obj\Debug\SnowFallMidili.csproj.CoreCompileInputs.cache
 C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\SnowFallMidili\obj\Debug\SnowFallMidili.exe
 C:\Users\midil\OneDrive\Документы\ПКГХ\Конопля\cmpltd\SnowFallMidili\obj\Debug\SnowFallMidili.pdb
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\bin\Debug\SnowFallMidili.exe.config
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\bin\Debug\SnowFallMidili.exe
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\bin\Debug\SnowFallMidili.pdb
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.csproj.AssemblyReference.cache
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.csproj.SuggestedBindingRedirects.cache
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.Form1.resources
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.Properties.Resources.resources
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.csproj.GenerateResource.cache
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.csproj.CoreCompileInputs.cache
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.exe
+C:\Users\yozhikes\Desktop\проекты\SnowFall-main\SnowFallMidili\obj\Debug\SnowFallMidili.pdb
